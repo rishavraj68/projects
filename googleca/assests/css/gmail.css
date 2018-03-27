@@ -1,0 +1,267 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    background: #F1F1F1;
+    padding:0 44px;
+    height:71px;
+    
+    border-bottom: 1px
+    
+}
+
+.create{
+    text-align:center;
+    color:#555;
+    margin-top:27px;
+    margin-bottom:50px;
+    font-size: 38px;
+    font-family:'Open Sans', arial;
+
+    font-weight:50;
+}
+
+
+.btn{
+    float: right;
+    background-color:#4d90fe;
+    
+    
+background: #4d90fe; /* Old browsers */
+background: -moz-linear-gradient(top, #4d90fe 0%, #4787ed 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #4d90fe 0%,#4787ed 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #4d90fe 0%,#4787ed 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d90fe', endColorstr='#4787ed',GradientType=0 ); /* IE6-9 */
+    padding:0 8px;
+    height:27px;
+    border-radius:2px;
+    
+    border: 1px solid #3079ed;
+    margin-top: 22px;
+    
+
+}
+
+a{
+    color:white;
+    border:1px;
+    padding:0 8px;
+    text-decoration: none;
+    
+}
+
+.logo{
+    height:36px;
+    width:112px;
+    margin-top:17px
+}
+
+.logo-strip img{
+    height:25px;
+    width:25px;
+    padding:6px;
+}
+
+.side-content .logo-strip{
+    background-size:325px 24px ;
+    width:325px;
+    height:24px;
+    margin:0 auto 80px;
+}
+
+.side-content{
+    float:left;
+    padding-top: 18px;
+}
+
+.side-content h2{
+    text-align: center;
+    font-family:'Open Sans', arial;
+    color:#737373;
+    font-size:20px;
+    margin-bottom:15px;
+}
+
+.first-name{
+    border: 1px solid black;
+    padding:0 8px;
+}
+
+.side-content p{
+    text-align: center;
+    font-family:'Open Sans', arial;
+    color:#737373;
+    font-size:13px;
+    margin-bottom:40px;
+}
+
+.device-icon{
+    margin:0 auto 80px;
+    height:172px;
+    width:300px;
+}
+
+.signup-form .form{
+    width:362px;
+    height:823.500px;
+    float:right;
+    margin-right:50px;
+}
+
+.signup-form .black{
+    color: #15c;
+    text-decoration:
+}
+
+.signup-form .learn{
+    margin:13px 20px 0 20px;
+    height:17px;
+    width:312px;
+}
+
+.form .create-account{
+    padding:25px;
+    background:#f1f1f1;
+    height:649.500px;
+    width:312px;
+}
+
+.form .d{
+    margin-right:5px;
+    height:29px;
+    width:150px;
+}
+
+.names{
+    margin-bottom: 19.500px;
+}
+
+.username input{
+    height:27px;
+    width:310px;
+}
+
+.username{
+    margin-bottom: 19.500px;
+}
+
+.create-pass input{
+    height:27px;
+    width:310px;
+}
+
+.create-pass{
+    margin-bottom: 19.500px;
+}
+
+.confirm-pass input{
+    height:27px;
+    width:310px;
+}
+
+.confirm-pass{
+    margin-bottom: 19.500px;
+}
+
+.birthday .month{
+    margin-right: 5px;
+    height:29px;
+    width:135px;
+}
+.month{
+    height:29px;
+}
+
+.birthday{
+    margin-bottom: 19.500px;
+}
+
+.birthday .day{
+    height:26px;
+    width:60px;
+    margin-right: 5px;
+}
+
+.birthday .year{
+    height:26px;
+    width:97px;
+    margin-right: 5px;
+    
+}
+
+.select{
+    height:29px;
+    width:312px;
+}
+
+.gender{
+     margin-bottom: 19.500px;
+}
+
+.address{
+    height:26px;
+    width:312px;
+}
+
+.current-address{
+    margin-bottom: 19.500px;
+}
+
+.loc-option{
+    height:30px;
+    width:318px;
+}
+
+.number{
+    height:26px;
+    width:312px;
+}
+
+.phone{
+    margin-bottom: 19.500px;
+}
+
+.container{
+    margin:0 155.500px;
+    padding:23px 44px 7px 44px;
+}
+
+.marking{
+    height:823.500px;
+    width:950px;
+    padding-bottom: 0;
+}
+
+.style{
+    font-family:'Open Sans', arial;
+}
+
+.button {
+    width:312px;
+}
+
+.pull-right{
+    float:right;
+}
+
+.pull-right img{
+    padding-top: 
+}
+
+footer{
+    font-size: .85em;
+    padding-top: 9px;
+}
+
+ul >li{
+display:inline-block;
+    padding:0 1.5em 0 0;
+}
+
+ul{
+    padding-top:3px;
+}
+
+
+
